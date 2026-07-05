@@ -1,0 +1,9 @@
+[
+  {
+    "timestamp": "2026-07-03T12:21:25.170796+00:00",
+    "email_subject": "Invoice #48291 - Payment Overdue, Action Required",
+    "predicted_verdict": "phishing",
+    "actual_verdict": "suspicious",
+    "notes": ""
+  }
+]

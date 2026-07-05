@@ -1,0 +1,21 @@
+From: GitHub <noreply@github.com>
+To: dev@example.com
+Subject: Your weekly digest is ready
+Date: Wed, 02 Jul 2026 08:00:00 +0000
+Received-SPF: pass (google.com: domain of noreply@github.com designates permitted sender)
+Authentication-Results: mx.google.com; spf=pass smtp.mailfrom=github.com; dkim=pass; dmarc=pass
+Content-Type: text/plain; charset="UTF-8"
+
+Hi there,
+
+Here's what happened in your repositories this week:
+
+- 3 new pull requests were opened
+- 12 commits were pushed to main
+- 1 issue was closed
+
+View your full activity dashboard at https://github.com/notifications
+
+Thanks for using GitHub!
+
+The GitHub Team

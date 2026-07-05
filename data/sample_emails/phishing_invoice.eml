@@ -1,0 +1,29 @@
+From: Billing Department <billing@invoice-services-inc.xyz>
+To: victim@example.com
+Subject: Invoice #48291 - Payment Overdue, Action Required
+Date: Tue, 01 Jul 2026 14:03:00 +0000
+Received-SPF: none
+Content-Type: multipart/mixed; boundary="BOUNDARY123"
+
+--BOUNDARY123
+Content-Type: text/plain; charset="UTF-8"
+
+Hello,
+
+Your invoice #48291 is now 15 days overdue. Please review the attached
+document immediately and process payment to avoid service interruption
+and additional late fees.
+
+Open the attached file now to view your invoice.
+
+Regards,
+Billing Department
+
+--BOUNDARY123
+Content-Type: application/octet-stream; name="Invoice_48291.pdf.exe"
+Content-Disposition: attachment; filename="Invoice_48291.pdf.exe"
+Content-Transfer-Encoding: base64
+
+VGhpcyBpcyBqdXN0IGEgZmFrZSBwbGFjZWhvbGRlciBmb3IgYSBtYWxpY2lvdXMgZXhlY3V0YWJsZS4=
+
+--BOUNDARY123--

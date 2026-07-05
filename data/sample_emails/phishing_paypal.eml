@@ -1,0 +1,23 @@
+From: PayPal Security <security@paypa1-alerts.com>
+To: victim@example.com
+Subject: Urgent: Your account has been limited
+Date: Mon, 30 Jun 2026 09:12:00 +0000
+Received-SPF: fail (google.com: domain of security@paypa1-alerts.com does not designate permitted sender)
+Authentication-Results: mx.google.com; spf=fail smtp.mailfrom=paypa1-alerts.com; dkim=none; dmarc=fail
+Content-Type: text/plain; charset="UTF-8"
+
+Dear Customer,
+
+We have detected unusual activity on your PayPal account. Your account has been
+temporarily limited for your protection.
+
+To restore full access, please verify your identity immediately by clicking the
+link below. Failure to verify within 24 hours will result in permanent suspension
+of your account.
+
+Verify Now: http://paypa1-secure-verification.top/login?ref=8837x
+
+If you do not complete verification, your funds may be held indefinitely.
+
+Thank you,
+PayPal Account Security Team
