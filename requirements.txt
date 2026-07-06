@@ -3,4 +3,4 @@ rapidfuzz
 python-dotenv
 requests
 streamlit
-tesseract-ocr
+pytesseract
