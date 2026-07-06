@@ -9,7 +9,6 @@ Run with: python -m streamlit run app.py
 import os
 import streamlit as st
 import tempfile
-from dotenv import load_dotenv
 
 from main import run_pipeline
 from modules.url_analyzer import analyze_urls
@@ -24,7 +23,6 @@ from modules.feedback import log_correction, get_stats
 from modules.history import get_all_analyses, get_stats as get_history_stats
 from modules.malware_scanner import full_malware_scan
 
-load_dotenv()
 
 st.set_page_config(
     page_title="PhishGuard",
