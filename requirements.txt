@@ -1,0 +1,7 @@
+tldextract
+rapidfuzz
+python-dotenv
+requests
+streamlit
+tesseract-ocr
+libzbar0
