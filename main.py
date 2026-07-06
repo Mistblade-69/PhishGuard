@@ -18,7 +18,7 @@ import argparse
 import json
 import os
 import sys
-from dotenv import load_dotenv()
+from dotenv import load_dotenv
 
 from modules.email_parser import parse_eml_file
 from modules.header_check import analyze_auth_headers, risk_flags_from_auth
