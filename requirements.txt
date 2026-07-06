@@ -1,6 +1,13 @@
-tldextract
-rapidfuzz
+streamlit
 python-dotenv
 requests
-streamlit
+google-generativeai
+yara-python
 pytesseract
+Pillow
+PyMuPDF
+opencv-python-headless
+numpy
+tldextract
+rapidfuzz
+python-magic
